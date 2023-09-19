@@ -164,3 +164,4 @@ Institute of Technology overview of software packages.
 * [Internet Archive](https://archive.org/details/software) - The Internet
   Archive Software Collection is the largest vintage and historical software
   library in the world.
+* [Open Sustainable Technology](https://opensustain.tech/) - A curated list of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.
